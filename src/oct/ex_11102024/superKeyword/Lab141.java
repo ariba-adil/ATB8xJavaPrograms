@@ -1,6 +1,5 @@
 package oct.ex_11102024.superKeyword;
 
-import jdk.incubator.vector.VectorOperators;
 
 public class Lab141 {
     public static void main(String [] args) {
